@@ -2,3 +2,11 @@ p{
     margin: 100px auto;
     width: 1000px;
 }
+h1{
+    color: red;
+    margin: 100px auto;
+    width: 1000px;
+}
+b{
+    font-style: italic;
+}
